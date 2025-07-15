@@ -1,7 +1,7 @@
-## ⭐ JAVASCRIPT PROJECTS ⭐
+## ⭐ MY PROJECTS ⭐
 
 
-This README file serves as a handy directory, providing you with direct links to all the JavaScript projects I've created throughout my journey. Explore this compilation to discover a variety of exciting and functional projects, each showcasing my skills and creativity in the realm of JavaScript development.
+This README file serves as a handy directory, providing you with direct links to all the projects I've created throughout my journey. Explore this compilation to discover a variety of exciting and functional projects, each showcasing my skills and creativity.
 
 <br>
 
@@ -15,6 +15,12 @@ This README file serves as a handy directory, providing you with direct links to
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 <br>
 <br>
@@ -24,6 +30,7 @@ This README file serves as a handy directory, providing you with direct links to
 
 ### 📌 **Link: (don't forget to check readme also)**
 
+### 🛑React Projects 🛑
 
 | \*  |      **Project(Source Code)**       |   Live Demo   |
 | :-: | :-----------------------------: | :-----------: |
@@ -37,7 +44,7 @@ This README file serves as a handy directory, providing you with direct links to
 
 <br>
 
-> JavaScript Mini Projects -> [Git Repo](https://github.com/mk-manishkumar/javascript-mini-projects) -> [Live Demo](https://js-mini-projects-mk.netlify.app/)
+> JavaScript Projects -> [Git Repo](https://github.com/mk-manishkumar/javascript-projects) -> [Live Demo](https://js-projects-mk.netlify.app/)
 
 
 
